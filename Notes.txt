@@ -1,0 +1,21 @@
+JQuery:- 
+  The JS library that will prevent our fingers from breaking.
+
+  It allows you to take a line of code, say "document.querySelector("h1")", where we are looking through the DOM of our website, we are selecting the document and we are querying for the selector h1.
+
+  Now if were using jQuery library, then we can get rid of all that and simply say "jQuery("h1").
+
+  And if you wanna be even shorter, the shorthand way to write jQuery is simply a dollar sign "$("h1"). It does exactly the same as "document.querySelector("h1")" does.
+
+
+How to incorporate jQuery into websites:-
+  Just like Bootstrap, you can download all the jQuery code files through their download page, or you can simply use a DCN
+
+Minify JavaScript code
+
+Selecting elements with jQuery:-
+  doument.querySelector("h1")
+  OR
+  $("h1")
+  CSS Selector:-
+    $("h1")
